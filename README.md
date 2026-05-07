@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Paul 👋
 
-<!--
-**paulperrin-stack/paulperrin-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior full-stack developer based in Da Nang, Vietnam. Backend-leaning. Recently completed The Odin Project and now building my portfolio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Current stack
+
+**Backend:** Node.js · Express · Prisma · PostgreSQL · SQLite · Passport · JWT · bcrypt  
+**Frontend:** React · React Router · Vite · HTML · CSS  
+**Tooling:** Git · GitHub · npm · ESLint · Prettier
+
+---
+
+#### 🚀 Current projects
+
+- **[odin-book](https://github.com/paulperrin-stack/odin-book)** — Social network with feeds, follows, posts, likes, and comments. Sessions + GitHub OAuth. *In progress (v2 rebuild).*
+- **[blog-api](https://github.com/paulperrin-stack/blog-api)** — Blog backend with JWT auth, admin and reader roles. Express + Prisma + SQLite.
+- **[messaging_app](https://github.com/paulperrin-stack/messaging_app)** — Messaging app with conversations and auth. Express + Prisma + PostgreSQL + JWT.
+- **[admin-dashboard](https://github.com/paulperrin-stack/admin-dashboard)** — Responsive admin dashboard layout. Hand-coded HTML + CSS Grid. [Live demo](https://paulperrin-stack.github.io/admin-dashboard/).
+
+---
+
+#### 🌱 Currently learning
+
+Daily algorithm practice on Codewars · Full Stack Open curriculum
+
+---
+
+#### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/paul-w-perrin) · paul.w.perrin@gmail.com
