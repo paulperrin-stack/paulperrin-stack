@@ -16,7 +16,7 @@ Junior full-stack developer based in Da Nang, Vietnam. Backend-leaning. Recently
 
 - **[odin-book](https://github.com/paulperrin-stack/odin-book)** — Social network with feeds, follows, posts, likes, and comments. Sessions + GitHub OAuth. *In progress (v2 rebuild).*
 - **[blog-api](https://github.com/paulperrin-stack/blog-api)** — Blog backend with JWT auth, admin and reader roles. Express + Prisma + SQLite.
-- **[messaging_app](https://github.com/paulperrin-stack/messaging_app)** — Messaging app with conversations and auth. Express + Prisma + PostgreSQL + JWT.
+- **[messaging-app](https://github.com/paulperrin-stack/messaging_app)** — Messaging app with conversations and auth. Express + Prisma + PostgreSQL + JWT.
 - **[admin-dashboard](https://github.com/paulperrin-stack/admin-dashboard)** — Responsive admin dashboard layout. Hand-coded HTML + CSS Grid. [Live demo](https://paulperrin-stack.github.io/admin-dashboard/).
 
 ---
